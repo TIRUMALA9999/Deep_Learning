@@ -7,13 +7,10 @@
 ![NLP](https://img.shields.io/badge/NLP-BERT%20%7C%20Word2Vec-purple)
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-CNN%20%7C%20Augmentation-green)
 ![Deployment](https://img.shields.io/badge/Deployment-TensorFlow%20Lite-red)
-![Status](https://img.shields.io/badge/Status-Interview%20Ready-success)
 
 ---
 
 **Author:** Tirumala Teja Yegineni  
-**Audience:** Recruiters • Hiring Managers • Technical Interviewers  
-**Purpose:** Course Portfolio • Resume-focused • Interview-ready • Explainable  
 
 ---
 
@@ -33,7 +30,7 @@ Each notebook represents a **standalone mini-project**, making this repository i
 
 ---
 
-## 🧠 Skills Demonstrated (Recruiter Snapshot)
+## 🧠 Skills Used
 
 - Deep learning model development using **TensorFlow/Keras**
 - Natural Language Processing with **BERT, Word2Vec, and supervised embeddings**
@@ -42,12 +39,12 @@ Each notebook represents a **standalone mini-project**, making this repository i
 - Model optimization using **TensorFlow Lite quantization**
 - Strong foundations in optimization, regularization, and evaluation
 
-**ATS Keywords:**  
+**Keywords:**  
 Deep Learning, Neural Networks, TensorFlow, Keras, CNN, NLP, BERT, Transformers, Word2Vec, Embeddings, Data Augmentation, Quantization, TFLite, Imbalanced Learning, SMOTE, Precision Recall, Confusion Matrix
 
 ---
 
-# 📂 Projects Completed in This Course (Detailed)
+# 📂 Projects Completed in This Course
 
 ---
 
@@ -217,7 +214,7 @@ Build strong theoretical foundations for deep learning.
 
 ---
 
-## 🔄 Suggested Interview Walkthrough Order
+## 🔄 Walkthrough
 
 1. BERT Email Classification (modern NLP)
 2. CNN Image Classification + Data Augmentation
@@ -226,7 +223,7 @@ Build strong theoretical foundations for deep learning.
 
 ---
 
-## ⚙️ How to Run Locally
+## ⚙️ To Run Locally
 
 ```bash
 python -m venv .venv
@@ -243,7 +240,7 @@ jupyter lab
 
 ---
 
-## 🧾 Detailed Resume Bullet Points (Copy-Paste Ready)
+## 🧾 Points
 
 - Completed a **comprehensive Deep Learning course portfolio** covering **NLP, computer vision, imbalanced learning, and deployment optimization**, implemented using **TensorFlow/Keras**.  
 - Designed and trained **CNN-based image classification models**, applying **data augmentation and regularization** techniques to improve generalization and reduce overfitting.  
