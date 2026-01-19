@@ -1,4 +1,4 @@
-# Deep Learning Course Portfolio  
+# Deep Learning Course Portfolio 
 ### End-to-End Neural Network Projects in NLP, Computer Vision & Model Optimization
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
