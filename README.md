@@ -1,5 +1,5 @@
 # Deep Learning Course Portfolio
-### End-to-End Neural Network Projects in NLP, Computer Vision & Model Optimization
+### End-to-End Neural Network Projects in NLP, Computer Vision & Model Optimization 
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Keras-orange)
